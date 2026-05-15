@@ -1,0 +1,20 @@
+# QUESTION 10 - EXPLAIN IN YOUR OWN WORDS
+
+1. What Aggregation means
+    Aggregation means combining multiple values into fewer values such as collective sum, average/mean, median etc
+
+2. Difference between Standard Deviation and Variance
+    Variance:
+        It is the Average Squared distance from the mean
+    
+    Standard Deviation:
+        It is the square root of variance
+
+3. Differnce Between Cumulative Sum and Normal Sum
+    Cumulative Sum:
+        Cumulative Sum returns an array in which each index element is the sum to that point in the original array
+    
+    Normal Sum:
+        Normal Sum returns a single value which is the total sum of the total elemetns of the array
+    
+    The last element of the cumulative sum is the normal sum

@@ -1,0 +1,10 @@
+# TASK 10 - EXPLAIN IN YOUR OWN WORDS
+
+1. NumPy Arrays are fasters than the Python Lists due to several reasons:
+    a. They contain the actual data rather than saving references
+    b. They contain data of the same data type
+    c. They are stored in contiguous memory blocks
+    d. They don't contain the data_type information saving memory
+
+2. Indexing is used to access an individual element
+    while slicing is used to access a submatrix or subarray

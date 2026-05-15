@@ -1,0 +1,8 @@
+# QUESTION 10 - EXPLAIN IN YOUR OWN WORDS
+
+1. What is Vectorization?
+    Vectorization is the use of Operations on arrays as a whole rather than using loops
+
+2. What is Broadcasting?
+    Broadcasting is when two arrays with different shapes are operated together, and they are compatible, so the smaller one acts as a fuller one.
+    

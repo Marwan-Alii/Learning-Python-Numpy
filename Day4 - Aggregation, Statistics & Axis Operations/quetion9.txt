@@ -1,0 +1,7 @@
+# QUESTION 9 - DIFFERENCE BETWEEN 'MAX' AND 'ARGMAX'
+
+MAX:
+    max returns the Highest value inside the array.
+
+ARGMAX:
+    argmax returns the index on which the max is present.

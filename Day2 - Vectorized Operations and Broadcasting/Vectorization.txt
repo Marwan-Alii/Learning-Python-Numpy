@@ -1,0 +1,2 @@
+Vectorization means performing operations on entire array at once instead of loops
+

@@ -1,0 +1,15 @@
+# QUESTION 10 - EXPLAIN IN YOUR OWN WORDS
+
+1. What reshape does?
+    Reshape takes the original array, and changes its structures.
+    Note: The new row and col should be such that newrow * newcol = size
+
+2. Difference between Reshape and Transpose
+    Reshape changes the dimensions of the Array into desired ones
+    Transpose just switches the Rows with Columns
+
+3. What Axis means in NumPy
+    Axis means a single dimension of Multi-Dimensional Array.
+    axis=0 mean vertical
+    axis=1 mean horizontal
+    higher axis is for (n>=3)d arrays
