@@ -1,7 +1,3 @@
-Here's the documentation for the **Learning-Python-Numpy** repository by Marwan-Alii:
-
----
-
 # Learning Python NumPy — Documentation
 
 ## Overview
